@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+08/05/2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare Phyton Project
 
 ### Description
-Describe what your project is about and what it does
+Calculate descriptive statistics of bike share use in Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credits to Stack Overflow.
